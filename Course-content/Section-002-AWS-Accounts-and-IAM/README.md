@@ -1,0 +1,12 @@
+# Section 2: AWS Accounts and IAM
+5. [Introduction](./002-005-Video-Introduction/)
+6. [AWS Account Overview](./002-006-Video-AWS-Account-Overview/)
+7. [Hands-On Lab Create your AWS Account](./002-007-Video-Hands-On-Lab-Create-your-AWS-Account/)
+8. [Hands-On Lab Configure Account and Create a Budget](./002-008-Video-Hands-On-Lab-Configure-Account-and-Create-a-Budget/)
+9. [AWS Identity and Access Management (IAM)](./002-009-Video-AWS-Identity-and-Access-Management-IAM/)
+10. [Hands-On Lab Creating IAM Users and Groups](./002-010-Video-Hands-On-Lab-Creating-IAM-Users-and-Groups/)
+11. [IAM Authentication and MFA](./002-011-Video-IAM-Authentication-and-MFA/)
+12. [Hands-On Lab Setup Multi-Factor Authentication (MFA)](./002-012-Video-Hands-On-Lab-Setup-Multi-Factor-Authentication/)
+13. [AWS Security Token Service (STS)](./002-013-Video-AWS-Security-Token-Service-STS/)
+14. [Access Control Methods - RBAC & ABAC](./002-014-Video-Access-Control-Methods-RBAC-and-ABAC/)
+15. [Hands-On Labs Switching IAM Roles](./002-015-Video-Hands-On-Labs-Switching-IAM-Roles/)
